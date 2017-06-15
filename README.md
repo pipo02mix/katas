@@ -1,0 +1,2 @@
+# katas
+Playing with code
