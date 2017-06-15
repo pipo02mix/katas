@@ -1,0 +1,17 @@
+{
+    "name": "fernandoripoll/romans_to_literals",
+    "require": {
+        "phpspec/phpspec": "^3.4"
+    },
+    "autoload": {
+      "psr-0": {
+        "": "src"
+      }
+    },
+    "authors": [
+        {
+            "name": "Fernando Ripoll",
+            "email": "fernando@cobrowser.net"
+        }
+    ]
+}
